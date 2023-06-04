@@ -8,7 +8,9 @@ Store Compare is a Java application that helps users compare the prices of toys 
 - User-friendly GUI: The graphical interface makes it easy for users to navigate and interact with the application.
 
 # Future Plans
-I plan to enhance this project by transforming it into a web application. This will enable users to access and utilize its features through a web browser, providing a more accessible and flexible experience. I am actively working on developing the web version of the application and will provide updates in the future.
+1. I plan to enhance this project by transforming it into a web application. This will enable users to access and utilize its features through a web browser, providing a more accessible and flexible experience. I am actively working on developing the web version of the application and will provide updates in the future.
+
+2. Currently, the application relies on manual scraping of websites to fetch prices and product details. I plan to improve the scraper to automatically fetch and update prices and product details from the supported websites. This will ensure that the information is always up to date and accurate.
 
 # Getting Started
 To run Store Compare locally, follow these steps:
