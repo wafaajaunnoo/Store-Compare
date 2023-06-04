@@ -15,7 +15,7 @@ Store Compare is a Java application that helps users compare the prices of toys 
 ## Getting Started
 To run Store Compare locally, follow these steps:
 
-1. Clone the repository using: git clone https://github.com/wafaajaunnoo/store-compare.git
+1. Clone the repository using: gh repo clone wafaajaunnoo/Store-Compare
 2. Open the project in your preferred Java IDE.
 3. Run the application.
 4. Use the GUI to search for toys and compare prices.
