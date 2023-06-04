@@ -25,3 +25,5 @@ To run Store Compare locally, follow these steps:
 
 # Contributing
 Contributions to Store Compare are welcome! If you find any issues, have suggestions for improvements, or would like to contribute to the web application development, please create a new issue or submit a pull request.
+
+Please note that the codes I uploaded may contain a few bugs, as the project is still a work in progress. Your feedback and contributions will be valuable in helping me identify and fix any issues.
